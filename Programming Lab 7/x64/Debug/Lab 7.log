@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Lab 7.c
+C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Lab 7\Lab 7.c(44,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Lab 7\Lab 7.c(55,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Lab 7\Lab 7.c(61,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Lab 7\Lab 7.c(70,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab 7.vcxproj -> C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Lab 7\x64\Debug\Lab 7.exe
