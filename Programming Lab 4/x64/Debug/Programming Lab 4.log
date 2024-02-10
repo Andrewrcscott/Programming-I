@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Programming Lab 4.c
+C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Programming Lab 4\Programming Lab 4.c(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Programming Lab 4\Programming Lab 4.c(54,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Programming Lab 4\Programming Lab 4.c(98,12): warning C4553: '==': result of expression not used; did you intend '='?
+  Programming Lab 4.vcxproj -> C:\Users\andre\Conestoga\Programming - Fall 2023\Labs\Programming Lab 4\x64\Debug\Programming Lab 4.exe
