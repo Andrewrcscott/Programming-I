@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Programming Lab 6.c
+C:\Users\andre\Conestoga\Programming - Fall 2023\Practice\Programming Lab 6\Programming Lab 6.c(38,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\Conestoga\Programming - Fall 2023\Practice\Programming Lab 6\Programming Lab 6.c(82,7): warning C4047: 'return': 'char' differs in levels of indirection from 'void *'
+C:\Users\andre\Conestoga\Programming - Fall 2023\Practice\Programming Lab 6\Programming Lab 6.c(87,23): warning C4013: 'strlen' undefined; assuming extern returning int
+  Programming Lab 6.vcxproj -> C:\Users\andre\Conestoga\Programming - Fall 2023\Practice\Programming Lab 6\x64\Debug\Programming Lab 6.exe
